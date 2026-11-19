@@ -1,0 +1,1 @@
+{"dependencies":{"socket.io":"^4.7.5"},"description":"ブラウザで離れた人とリアルタイム対戦できるカードゲーム「弾丸ごっこ」（スマホ配布用）","engines":{"node":">=18"},"main":"server.js","name":"dangan-gokko","scripts":{"start":"node server.js"},"type":"commonjs","version":"1.0.0"}
